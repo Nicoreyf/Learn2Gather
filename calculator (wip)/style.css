@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.container {
+    width: 100px;
+    border: 3px solid black;
+}
+
+.display {
+    border: 3px solid black;
+
+}
+
+.containercalc {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.column2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.column3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.column4 {
+    display: flex;
+    flex-direction: column;
+}
